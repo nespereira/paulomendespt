@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on PAULO MENDES TELECOMUNICAÇÕES</title>
+    <link>http://www.paulomendes.pt/services/index.xml</link>
+    <description>Recent content in Services on PAULO MENDES TELECOMUNICAÇÕES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <atom:link href="http://www.paulomendes.pt/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Acesso Dedicado Net Premium VODAFONE</title>
+      <link>http://www.paulomendes.pt/services/NetPremium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.paulomendes.pt/services/NetPremium/</guid>
+      <description>&lt;p&gt;Acesso Dedicado Net Premium VODAFONE é o serviço de Internet Premium que a Vodafone coloca ao dispor dos seus clientes. Este serviço destina-se a Clientes Empresariais com necessidades de Acesso à Internet dedicado, com largura de banda garantida, simétrica (download = upload) e sem contenção.&lt;/p&gt;
+
+&lt;p&gt;Inclui SLA Business Premium com disponibilidade de 99,7%, com solução de backup e alarmística proactiva, e a possibilidade de definir soluções de redundância à medida da sua empresa. Os sistemas de monitorização e alarmística, a elevada qualificação das equipas de suporte da Vodafone e os exigentes objetivos de desempenho destas, com atendimento 24x7 e mais de 90% das chamadas atendidas em menos de 30 segundos, permitem aos clientes da Vodafone usufruir de elevados níveis de disponibilidade de serviço.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One Net</title>
+      <link>http://www.paulomendes.pt/services/OneNet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.paulomendes.pt/services/OneNet/</guid>
+      <description>&lt;p&gt;O Vodafone One Net é a solução completa, avançada e flexível que integra na cloud as comunicações fixas e móveis bem como as Google Apps for Work – sempre à medida da sua empresa. Concentre-se apenas no seu negócio.&lt;/p&gt;
+
+&lt;p&gt;Esta solução não tem qualquer tipo de investimento inicial, uma vez que é totalmente suportada pelas várias estruturas de rede Vodafone, conforme as vossas necessidades.&lt;/p&gt;
+
+&lt;p&gt;A solução dispensa desde logo qualquer tipo de central e todos os custos inerentes, desde aquisição, manutenção e configuração, uma vez que a configuração é feita online, pelo cliente num portal dedicado e se necessário com suporte especializado Vodafone dedicado à solução.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outros Serviços</title>
+      <link>http://www.paulomendes.pt/services/Outros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.paulomendes.pt/services/Outros/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;TV NET VOZ&lt;/li&gt;
+&lt;li&gt;Acessos Dedicados Internet&lt;/li&gt;
+&lt;li&gt;Soluções Integradas de Rede Fixa&lt;/li&gt;
+&lt;li&gt;Soluções IoT / M2M&lt;/li&gt;
+&lt;li&gt;Internet Fibra / 4G&lt;/li&gt;
+&lt;li&gt;Rede Móvel&lt;/li&gt;
+&lt;li&gt;Banda Larga Móvel&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
